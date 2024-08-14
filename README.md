@@ -99,15 +99,8 @@ To run tests inside the Docker container, follow these steps:
    docker exec -it restaurant-activity-web-1 flake8 .
    ```
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. We welcome contributions that improve the project.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact information
 
 Author: Ivan Gerasimchik
+
 Email: iv.gerasimchik@gmail.com
